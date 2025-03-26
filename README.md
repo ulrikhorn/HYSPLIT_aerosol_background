@@ -10,7 +10,7 @@ Screenshot of interactive map showing the path of an aerosol package before reac
 Plot of the air package altitude along the route, overlaid with the type of terrain it passed over:
 ![image](https://github.com/user-attachments/assets/06b0d4cc-7273-4c30-a09a-b16c767c0180)
 
-
+The hypothesis is that the altitude and terrain type can predict the characteristics of the aerosol package. 
 
 Usage:
 Download copernicus Land Cover raster (.tif) files for the area of interest and add them to the working directory. 
