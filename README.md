@@ -5,7 +5,6 @@ The aerosol package is the air that arrives at the specified location at a speci
 By using land cover data, we can extrapulate what kind of terrain (forrest, mountains, sea) the air has moved over during its journey. This can then be used in conjunction with particle concentration, size and fluorescence data to predict and make models about what kind of background particles (the size of the particle, the concentration and fraction of bioaerosols) will be present in the aerosol at a spesific location, at a spesific time. 
 
 Screenshot of interactive map showing the path of an aerosol package before reaching Oslo.  
-file:///C:/Users/nihor/OneDrive%20-%20Forsvarets%20forskningsinstitutt/Dokumenter/Prosjekt/hyline/test_webpage.html
 
 ![image](https://github.com/user-attachments/assets/bfe3bcbd-2f79-4e43-87a9-439fb4fc68ee)
 
